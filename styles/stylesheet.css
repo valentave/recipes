@@ -19,9 +19,11 @@
 
 .main-image {
     width: 40%;
+    display: block;
+    margin: 0 auto;
 }
 
 .recipe-description {
     background-color: #ff8;
-    display: inline-block;
+    text-align: center;
 }
