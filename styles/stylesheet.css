@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Title {
+    font-size: 48px;
+    color: #ff3333;
+    text-align: center;
+}
+
+#Recipes, #Ingredients, #Steps {
+    font-size: 24px;
+    color: #ffbbbb;
+}
+
+.recipe-item {
+    font-size: 16px;
+}
+
+.main-image {
+    width: 40%;
+}
+
+.recipe-description {
+    background-color: #ff8;
+    display: inline-block;
+}
